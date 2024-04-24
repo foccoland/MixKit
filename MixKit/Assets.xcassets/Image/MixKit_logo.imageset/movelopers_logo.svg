@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 395.71 395.71" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="202.456" id="Filter" width="308.932" x="33.8557" y="44.259">
+<feDropShadow dx="15.4982" dy="15.4982" flood-color="#000000" flood-opacity="0.262945" in="SourceGraphic" result="Shadow" stdDeviation="0"/>
+</filter>
+</defs>
+<g id="Senza-Titolo" vectornator:layerName="Senza Titolo">
+<path d="M197.855 3.63043e-14C118.877 3.63043e-14 54.7024 64.2339 54.7024 143.181C54.7024 164.686 62.9822 188.4 74.0474 213.162C85.1746 238.062 99.7386 264.232 114.375 288.423C143.627 336.77 173.222 377.201 175.827 380.742C176.954 382.283 179.129 385.277 180.233 386.786C184.389 392.471 190.983 395.709 197.855 395.71C204.643 395.71 211.216 392.563 215.421 386.871C215.438 386.847 215.46 386.81 215.477 386.786C216.593 385.261 218.824 382.211 219.939 380.686C222.597 377.076 252.136 336.731 281.363 288.423C296 264.23 310.564 238.063 321.691 213.162C332.777 188.354 341.008 164.669 341.008 143.181C341.008 64.2048 276.807 1.83859e-05 197.855 3.63043e-14Z" fill="#303030" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Curva 3"/>
+<path d="M239.054 89.1604L298.709 125.112C309.021 131.327 309.021 141.402 298.709 147.616L234.496 186.315M122.092 89.1604L62.4361 125.112C52.1245 131.327 52.1245 141.402 62.4361 147.616L126.649 186.315M160.934 210.37L200.734 65.1058" fill="none" filter="url(#Filter)" stroke="#ac9dce" stroke-linecap="butt" stroke-linejoin="bevel" stroke-width="41.6935" vectornator:layerName="Curva 2" vectornator:shadowAngle="0.785398" vectornator:shadowColor="#000000" vectornator:shadowOffset="21.9178" vectornator:shadowOpacity="0.262945" vectornator:shadowRadius="0"/>
+</g>
+</svg>
